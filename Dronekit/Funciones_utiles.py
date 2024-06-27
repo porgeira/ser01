@@ -2,6 +2,8 @@
 # ahora un cambio en local
 # cambio n
 
+# CAMBIOS REALIZADOS POR TERCERos
+
 # Connect to the Vehicle (in this case a simulator running the same computer)
 from dronekit import *
 from time import sleep
