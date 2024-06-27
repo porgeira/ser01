@@ -1,10 +1,5 @@
-# pequeño cambio
-# ahora un cambio en local
-# cambio n
+# cambios como piterinho (segundo usuario) sobre mi clone forkeado del repo principal
 
-# CAMBIOS REALIZADOS POR TERCERos
-
-## Cambios en mi repositorio local, que luego intentaré subir
 
 # Connect to the Vehicle (in this case a simulator running the same computer)
 from dronekit import *
