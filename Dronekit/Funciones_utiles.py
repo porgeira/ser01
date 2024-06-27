@@ -1,6 +1,7 @@
-# cambio en mi clon creado desde el fork
-# pequeño cambio
-# ahora un cambio en local
+
+# cambios como piterinho (segundo usuario) sobre mi clone forkeado del repo principal
+
+
 
 # Connect to the Vehicle (in this case a simulator running the same computer)
 from dronekit import *
